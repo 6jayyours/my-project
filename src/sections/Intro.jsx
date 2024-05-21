@@ -12,7 +12,7 @@ const Intro = () => {
   };
 
   return (
-    <section className="flex flex-col justify-center items-center gap-6 text-center h-screen min-h-[500px] max-w-full mx-auto px-4 md:flex-row md:justify-evenly md:items-center md:px-8 lg:px-16">
+    <section className="bg-light-background flex flex-col justify-center items-center gap-6 text-center h-screen min-h-[500px] max-w-full mx-auto px-4 md:flex-row md:justify-evenly md:items-center md:px-8 lg:px-16">
       <div className="relative flex justify-center items-center">
         <video
           src={BgVideo}
