@@ -1,10 +1,10 @@
-import Navbar from './components/navbar/Navbar'
+import Intro from './sections/Intro'
 
 function App() {
 
   return (
       <>
-      <Navbar/>
+      <Intro/>
       </>
   )
 }
