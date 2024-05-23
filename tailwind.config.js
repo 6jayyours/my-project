@@ -16,6 +16,12 @@ export default {
           background: '#212a31', 
           text: '#D748d92',       
         },
+        primary: {
+          DEFAULT: '#124e66',
+          50: '#212a31',
+          100: '#2e3944',
+          200: '#748d92',
+        },
       },
       fontFamily: {
         sans: ['Rubik', 'ui-sans-serif', 'system-ui'],
