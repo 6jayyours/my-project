@@ -19,7 +19,7 @@ const Intro = () => {
           autoPlay
           muted
           loop
-          className="max-w-[200px] md:max-w-[350px] lg:max-w-[400px] h-auto"
+          className="max-w-[200px] md:max-w-[350px] lg:max-w-[400px] h-auto shadow-2xl rounded-3xl"
         />
         <button
           type="button"
