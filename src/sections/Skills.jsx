@@ -1,10 +1,11 @@
 import React from 'react'
+import { GiCheckMark } from "react-icons/gi";
 
 const Skills = () => {
   return (
-    <div>
-      
-    </div>
+    <section >
+    <h1 className="sectionTitle">Skills</h1>
+  </section>
   )
 }
 
