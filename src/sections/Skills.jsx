@@ -17,7 +17,7 @@ import SkillCard from "../common/SkillCard";
 
 const Skills = () => {
   return (
-    <section className="bg-light-background text-center py-8">
+    <section className="bg-light-background text-center py-8 min-h-screen h-auto sm:h-screen">
       <h1 className="text-2xl font-bold mb-6">Skills</h1>
       <div className="skillList flex justify-evenly self-center flex-wrap gap-y-10 max-w-[26ch] md:max-w-fit md:gap-7 mx-auto">
         <SkillCard icon={FaJava} label="Java" color="#007396" />
